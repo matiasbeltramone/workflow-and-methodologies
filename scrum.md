@@ -103,4 +103,4 @@ Todos deberían participar. El ScrumMaster no debería andar por la sala pidiend
 
 ## 📌 Conclusión
 
-Las partes y las reglas por sí solas son fáciles de entender. Sin embargo, reunirlos de la manera más eficaz plantea desafíos. Volviendo a la analogía del auto, cada pieza debe estar finamente ajustada para un rendimiento óptimo. Luego hay que estudiar los detalles de implementación y las estrategias de la vida real para optimizar el rendimiento; moverse más rápido sin perder el control y lidiar con los golpes, las explosiones y los contraataques que surgen al intentar competir en el mundo del desarrollo de software.
+Las partes y las reglas por sí solas son fáciles de entender. Sin embargo, reunirlos de la manera más eficaz plantea desafíos. Volviendo a la analogía del auto, cada pieza debe estar finamente ajustada para un rendimiento óptimo. Luego hay que estudiar los detalles de implementación y las estrategias de la vida real para optimizar el rendimiento; moverse más rápido sin perder el control y lidiar con los golpes, las explosiones y los contraataques, o cualquier percanse que surja al intentar competir en el mundo del desarrollo de software.
