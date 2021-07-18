@@ -130,7 +130,9 @@ Pueden existir muchas más clases de servicio. Lo que debemos tener claro es cua
 
 Un ejemplo de uso muy habitual de tableros Kanban es todo lo relacionado con la productividad personal. Hay incluso diferentes libros relacionados con este tema.
 
-https://user-images.githubusercontent.com/22304957/126054916-21b2bbc2-3fd4-48ee-a782-c2e109bd2c4f.png
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22304957/126054916-21b2bbc2-3fd4-48ee-a782-c2e109bd2c4f.png" style="width:20px;" />
+</p>
 
 Podemos observar las diferentes columnas:
 
