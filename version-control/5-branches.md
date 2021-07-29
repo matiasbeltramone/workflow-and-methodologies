@@ -1,6 +1,6 @@
 #### Branches
 Nuestro repositorio esta compuesto por un tronco principal (main/master) que puede o no ser la rama que se encuentran funcionando en producción y además podemos tener diferentes bifurcaciones apartir de aquí que son
-llamadas ramas, las cuales nos permiten tener copias identicas desde cierto punto en cuestión para seguir trabajando sobre las mismas.
+llamadas ramas, las cuales nos permiten tener copias identicas desde cierto punto en cuestión para seguir trabajando sobre las mismas implementando diferentes requerimientos nuevos, parches, etc.
 
 1. Crear una rama: `git branch testing`
 2. Listado de ramas: `git branch`
