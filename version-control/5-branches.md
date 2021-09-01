@@ -7,6 +7,10 @@ llamadas ramas, las cuales nos permiten tener copias identicas desde cierto punt
 3. Borrado de ramas: `git branch -d testing`
 4. Movernos a un branch: `git switch / checkout testing`
 
+Podemos utilizar un atajo en lugar del `branch & switch`.
+
+`git checkout -b "testing-branches"`
+
 Podemos crear etiquetas en nuestras líneas temporales al igual que los nombres que poníamos a ciertas versiones en google docs, con los tags de github.
 
 - Crear una versión para el historial: `git tag "v1"`
