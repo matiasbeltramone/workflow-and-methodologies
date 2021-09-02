@@ -1,4 +1,4 @@
-#### Alias de Git
+#### 👯‍ Alias de Git
 Configurar los alias en nuestro archivo de configuración: `nano ~/.gitconfig`
 
 Agregamos:
