@@ -1,4 +1,4 @@
-#### Buenas prácticas de commits
+#### 🎨 Buenas prácticas de commits
 Como no realizar commits...
 ![Screenshot from 2020-05-28 08-50-26](https://user-images.githubusercontent.com/22304957/83137907-5517a780-a0c0-11ea-85b1-b4dd7923f6e0.png)
 
