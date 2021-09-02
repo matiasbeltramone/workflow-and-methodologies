@@ -1,4 +1,4 @@
-### Pull Request que nos gustaría revisa
+### 🧩 Pull Request que nos gustaría revisa
 En general los devs queremos PRs que nos explican que hace principalmente lo implementado, que se agrego o quito. Esto nos da pie a poder investigar de cierta manera el flujo de las clases cambiadas,
 porque si revisamos desde el orden que nos da Github muchas veces carece de sentido ver un orden de clases random.
 (Ver extensión para ver el tree en Github o actualmente creo que GitHub te deja visualizarlo como un IDE)
