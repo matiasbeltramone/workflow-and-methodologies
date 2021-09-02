@@ -25,3 +25,4 @@ se realizo en el master de nuestro local.
 
 _Tip: `git fetch -ap` lo que hace es todas las ramas que esten en remoto y que ya no existan las limpia.
 (Puede ser del origin que es github y además de un fork que haya realizado algún compañero)._
+
