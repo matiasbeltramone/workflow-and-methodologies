@@ -10,4 +10,4 @@ Colaboración entre proyectos.
 - Vamos a crear una nueva PR pero contra el original (Puede crearse en 
   modo draft para que sepan que todavía no están completos los cambios), y 
   si es un proyecto Open Source buena práctica que permitas la `edición de 
-  las personas que mantienen el proyecto`
+  las personas que mantienen el proyecto` 
